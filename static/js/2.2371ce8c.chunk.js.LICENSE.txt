@@ -26,7 +26,7 @@ object-assign
 */
 
 /*!
- * EasePack 3.7.0
+ * GSAP 3.7.0
  * https://greensock.com
  *
  * @license Copyright 2008-2021, GreenSock. All rights reserved.
@@ -36,7 +36,7 @@ object-assign
 */
 
 /*!
- * GSAP 3.7.0
+ * ScrollToPlugin 3.7.0
  * https://greensock.com
  *
  * @license Copyright 2008-2021, GreenSock. All rights reserved.
